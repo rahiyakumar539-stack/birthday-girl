@@ -467,11 +467,11 @@ function closeGiftModal() {
 const LETTER_SECTIONS = [
   {
     id: 'letter-headline-el',
-    text: "Happy birthday to my favourite\nperson srry CRUSH ! ❤️"
+    text: "Happy birthday to my favourite person!❤️"
   },
   {
     id: 'letter-p1-el',
-    text: "You know what? 🤭😂 Mujhe abhi bhi yaad hai, first day jab tumhe dekha tha, you were looking so beautiful! 😍❤️\n\nSecond day again black outfit 🖤, then light green 💚, uske next day toh hum dono matching purple-green mein the 🤣💜💚\n\nPhir next day white outfit with jeans 🤍, aur last day devi colourful outfit mein aayi aur mujhe FRIENDZONE kar diya but abhi dost ha baad ma kuch v ho sakta! 😉💖"
+    text: "You know what? 🤭😂 Mujhe abhi bhi yaad hai, first day jab tumhe dekha tha, you were looking so beautiful! 😍❤️Second day again black outfit 🖤, then light green 💚, uske next day toh hum dono matching purple-green mein the 🤣💜💚Phir next day white outfit with jeans 🤍, aur last day devi colourful outfit mein aayi aur mujhe FRIENDZONE kar diya but abhi dost ha baad ma kuch v ho sakta! 😉💖"
   },
   {
     id: 'letter-p2-el',
