@@ -1661,24 +1661,3 @@ html, body {
     margin-bottom: 14px;
   }
 }
-@media screen and (max-width: 768px) {
-
-    html, body {
-        height: auto !important;
-        min-height: 100%;
-        overflow-x: hidden !important;
-        overflow-y: auto !important;
-    }
-
-    body {
-        -webkit-overflow-scrolling: touch;
-    }
-
-    .screen,
-    .container {
-        min-height: 100dvh;
-        height: auto;
-        overflow: visible;
-    }
-
-}
